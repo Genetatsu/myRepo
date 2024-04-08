@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SomaFamilyRestaurant\SomaFamilyRestaurant\obj\Release\SomaFamilyRestaurant.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SomaFamilyRestaurant\SomaFamilyRestaurant\obj\Release\SomaFamilyRestaurant.Form1.resources
+C:\Users\Admin\source\repos\SomaFamilyRestaurant\SomaFamilyRestaurant\obj\Release\SomaFamilyRestaurant.Properties.Resources.resources
+C:\Users\Admin\source\repos\SomaFamilyRestaurant\SomaFamilyRestaurant\obj\Release\SomaFamilyRestaurant.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SomaFamilyRestaurant\SomaFamilyRestaurant\obj\Release\SomaFamilyRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SomaFamilyRestaurant\SomaFamilyRestaurant\bin\Release\SomaFamilyRestaurant.exe.config
+C:\Users\Admin\source\repos\SomaFamilyRestaurant\SomaFamilyRestaurant\bin\Release\SomaFamilyRestaurant.exe
+C:\Users\Admin\source\repos\SomaFamilyRestaurant\SomaFamilyRestaurant\bin\Release\SomaFamilyRestaurant.pdb
+C:\Users\Admin\source\repos\SomaFamilyRestaurant\SomaFamilyRestaurant\obj\Release\SomaFamilyRestaurant.exe
+C:\Users\Admin\source\repos\SomaFamilyRestaurant\SomaFamilyRestaurant\obj\Release\SomaFamilyRestaurant.pdb
